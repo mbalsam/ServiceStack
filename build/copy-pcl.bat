@@ -38,6 +38,7 @@ COPY ..\src\ServiceStack.Client\PclExportClient.Net40.cs ..\src\ServiceStack.Pcl
 COPY ..\src\ServiceStack.Client\PclExportClient.Net40.cs ..\src\ServiceStack.Pcl.Android
 
 COPY ..\src\ServiceStack.Client\EncryptedServiceClient.cs ..\src\ServiceStack.Pcl.Android
+
 COPY ..\src\ServiceStack.Client\CryptUtils.cs ..\src\ServiceStack.Pcl.Android
 COPY ..\src\ServiceStack.Client\EncryptedServiceClient.cs ..\src\ServiceStack.Pcl.iOS10
 COPY ..\src\ServiceStack.Client\CryptUtils.cs ..\src\ServiceStack.Pcl.iOS10
